@@ -1,1 +1,2 @@
-# Big_Blue_Data_Public
+Hello
+This is my First Week in the Academy
